@@ -11,10 +11,6 @@
 	f. Code written in Visual Studio 2013.
 	g. Error warning 4996 was suppressed using : #pragma warning(disable :4996)
 
-	Group Members:
-	=============
-	Oyedotun  Oyesanmi
-
 */
 
 
